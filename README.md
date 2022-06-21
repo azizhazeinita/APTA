@@ -9,4 +9,4 @@ This project is data analysis project using provided data sources from **America
 
 This project uses **SQL** for database, **tableau** to make data visualization for the analysis, and python to take a look at data description. In this github page, provided **Data Definition Language (DDL)** and **Data Manipulation Language (DML)** for SQL, .mwb format that is database document created by MySQL Workbench, .twbx for Tableau file, and a set of cleaned datasets.
 
-To give deeper overview, I also upload a documentation pdf file for this project under name of Documentation of US Public Transportation Analysis (APTA).
+To give deeper overview, I also upload a documentation pdf file for this project under name of [README] Project Overview.pdf.
